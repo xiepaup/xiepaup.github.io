@@ -67,8 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description:
-"用用功能，研究代码，吐吐槽，改改代码，爽歪歪，一天又一天；玩玩股票，搞搞投资，嘿嘿~"
+sidebar-about-description: "用用功能，研究代码，吐吐槽，改改代码，爽歪歪，一天又一天；玩玩股票，搞搞投资，嘿嘿~"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -90,11 +89,5 @@ friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    }
+    # }
 ]
