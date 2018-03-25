@@ -1,6 +1,6 @@
 # Site settings
-title: xiepaup Blog
-SEOTitle: 撒子哟的博客 | xiepaup Blog
+title: xiepaup's Blog
+SEOTitle: 撒子哟的博客
 header-img: img/home-bg.jpg
 email: xiepaup@163.com
 description: "MySQL DBA , About Redis Rocksdb ,leveldb , python,java,go ..."
